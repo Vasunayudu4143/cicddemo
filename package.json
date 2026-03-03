@@ -1,6 +1,7 @@
 {
   "name": "frontendjobprep",
   "version": "0.1.0",
+  "homepage": "https://vasunayudu4143.github.io/cicddemo/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

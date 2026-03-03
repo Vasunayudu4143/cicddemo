@@ -4,8 +4,9 @@ function Header()
 {
 
     return(
-        <div>
+        <div style={{width:"100%",height:"400px",backgroundColor:"red"}}>
             This is the Header component
+            <input type="text" placeholder="Enter your name myaan"/>
         </div>
     )
 }
