@@ -6,10 +6,12 @@ import Login from './components/Login';
 function App() {
   return (
     <div className="App">
-     {/* <Header/>
-     <Footer/> */}
 
+      
      <Login/>
+     <Header/>
+     <Footer/>
+
     </div>
   );
 }
